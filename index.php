@@ -208,7 +208,7 @@
 
 			   <div class="col portfolio-item">
                <div class="item-wrap">
-					   <a href="#" data-reveal-id="modal-01"><img src="images/event_logo02.png" alt=""/></a>
+					   <a href="#" data-reveal-id="modal-01"><img src="images/eventimage03.jpg" alt=""/></a>
 					   <div class="portfolio-item-meta">
 						   <p>Coming Soon</p>
 					   </div>
@@ -217,7 +217,7 @@
 
             <div class="col portfolio-item">
                <div class="item-wrap">
-					   <a href="#" data-reveal-id="modal-02"><img src="images/event_logo02.png" alt=""/></a>
+					   <a href="#" data-reveal-id="modal-02"><img src="images/eventimage03.jpg" alt=""/></a>
 					   <div class="portfolio-item-meta">
 						   <p>Coming Soon</p>
 					   </div>
@@ -226,7 +226,7 @@
 
             <div class="col portfolio-item">
                <div class="item-wrap">
-					   <a href="#" data-reveal-id="modal-03"><img src="images/event_logo02.png" alt=""/></a>
+					   <a href="#" data-reveal-id="modal-03"><img src="images/eventimage03.jpg" alt=""/></a>
 					   <div class="portfolio-item-meta">
 						   <p>Coming Soon</p>
 					   </div>
@@ -235,7 +235,7 @@
 
             <div class="col portfolio-item">
                <div class="item-wrap">
-					   <a href="#" data-reveal-id="modal-04"><img src="images/event_logo02.png" alt=""/></a>
+					   <a href="#" data-reveal-id="modal-04"><img src="images/eventimage03.jpg" alt=""/></a>
 					   <div class="portfolio-item-meta">
 						   <p>Coming Soon</p>
 					   </div>
@@ -254,7 +254,7 @@
       <!-- modal-01 -->
 	   <div id="modal-01" class="reveal-modal">
 
-		   <img class="scale-with-grid" src="images/portfolio/modals/m-clock.jpg" alt="" />
+		   <img class="scale-with-grid" src="images/portfolio/modals/ComingSoon02.jpg" alt="" />
 
 		   <div class="description-box">
 			   <h4>Coming Soon...</h4>
@@ -271,7 +271,7 @@
       <!-- modal-02 -->
 	   <div id="modal-02" class="reveal-modal">
 
-		   <img class="scale-with-grid" src="images/portfolio/modals/m-clock.jpg" alt="" />
+		   <img class="scale-with-grid" src="images/portfolio/modals/ComingSoon02.jpg" alt="" />
 
 		   <div class="description-box">
 			   <h4>Coming Soon...</h4>
@@ -288,7 +288,7 @@
       <!-- modal-03 -->
 	   <div id="modal-03" class="reveal-modal">
 
-		   <img class="scale-with-grid" src="images/portfolio/modals/m-clock.jpg" alt="" />
+		   <img class="scale-with-grid" src="images/portfolio/modals/ComingSoon02.jpg" alt="" />
 
 		   <div class="description-box">
 			   <h4>Coming Soon...</h4>
@@ -305,7 +305,7 @@
       <!-- modal-04 -->
 	   <div id="modal-04" class="reveal-modal">
 
-		   <img class="scale-with-grid" src="images/portfolio/modals/m-clock.jpg" alt="" />
+		   <img class="scale-with-grid" src="images/portfolio/modals/ComingSoon02.jpg" alt="" />
 
 		   <div class="description-box">
 			   <h4>Coming Soon...</h4>
@@ -346,7 +346,7 @@
 
          <div class="col one-fourth">
 
-            <img src="images/team/team-img-01.jpg" alt=""/>
+            <img src="images/team/profile02.jpg" alt=""/>
 
             <div class="member-name">
                <h5>朝倉 大智</h5>
@@ -363,7 +363,7 @@
 
          <div class="col one-fourth">
 
-            <img src="images/team/team-img-02.jpg" alt=""/>
+            <img src="images/team/profile02.jpg" alt=""/>
 
             <div class="member-name">
                <h5>原田 英里佳</h5>
@@ -383,7 +383,7 @@
 
          <div class="col one-fourth">
 
-            <img src="images/team/team-img-03.jpg" alt=""/>
+            <img src="images/team/profile02.jpg" alt=""/>
 
             <div class="member-name">
                <h5>石川 大介</h5>
@@ -403,7 +403,7 @@
 
          <div class="col one-fourth">
 
-            <img src="images/team/team-img-03.jpg" alt=""/>
+            <img src="images/team/profile02.jpg" alt=""/>
 
             <div class="member-name">
                <h5>メンバー募集!!</h5>
@@ -567,12 +567,14 @@
 
    </footer> <!-- Footer End-->
 
+
+
    <!-- Java Script
    ================================================== -->
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
    <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>        <!--  slack.js -->     
+   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>       
 
 
    <script src="js/scrollspy.js"></script>
@@ -582,7 +584,7 @@
    <script src="js/gmaps.js"></script>
    <script src="js/init.js"></script>
    <script src="js/smoothscrolling.js"></script>
-   <script src="js/slack.js" ></script>         <!-- slack.js -->
+
 
 
 </body>
